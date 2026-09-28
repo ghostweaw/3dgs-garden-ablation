@@ -1,0 +1,12 @@
+=== full start Sun Sep 27 12:47:00 CST 2026 ===
+[ITER 30000] Evaluating test: L1 0.023831168189644814 PSNR 28.774183432261147 [27/09 13:02:13]
+=== full done Sun Sep 27 13:02:47 CST 2026 ===
+=== no_densification start Sun Sep 27 13:02:47 CST 2026 ===
+[ITER 30000] Evaluating test: L1 0.028957912310337026 PSNR 27.2255273660024 [27/09 13:08:28]
+=== no_densification done Sun Sep 27 13:08:33 CST 2026 ===
+=== no_sh start Sun Sep 27 13:08:33 CST 2026 ===
+[ITER 30000] Evaluating test: L1 0.025656970295434196 PSNR 28.27042277654012 [27/09 13:16:35]
+=== no_sh done Sun Sep 27 13:16:50 CST 2026 ===
+=== no_antialiasing start Sun Sep 27 13:16:50 CST 2026 ===
+[ITER 30000] Evaluating test: L1 0.02169881349739929 PSNR 29.358906189600624 [27/09 13:28:29]
+=== no_antialiasing done Sun Sep 27 13:28:50 CST 2026 ===

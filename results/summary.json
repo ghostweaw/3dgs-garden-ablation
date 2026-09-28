@@ -1,0 +1,26 @@
+{
+  "full": {
+    "label": "Full + antialias",
+    "psnr": 28.766036987304688,
+    "ssim": 0.9069378972053528,
+    "lpips_alex": 0.03834075108170509
+  },
+  "no_densification": {
+    "label": "No densification",
+    "psnr": 27.219457626342773,
+    "ssim": 0.8512476086616516,
+    "lpips_alex": 0.10333248972892761
+  },
+  "no_sh": {
+    "label": "SH degree 0",
+    "psnr": 28.262388229370117,
+    "ssim": 0.8981752991676331,
+    "lpips_alex": 0.04444335028529167
+  },
+  "no_antialiasing": {
+    "label": "No antialias",
+    "psnr": 29.3503475189209,
+    "ssim": 0.9212223887443542,
+    "lpips_alex": 0.02906966768205166
+  }
+}
